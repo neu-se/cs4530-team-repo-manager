@@ -10,6 +10,7 @@ STAFF_TEAM_SLUG=slug of team for staff for that year
 ```
 
 How to create team repos for this class:
+
 0. Create a [personal access token for GitHub](https://github.com/settings/tokens), put in .env . Create a [personal access token for Netlify](https://app.netlify.com/user/applications), put in .env
 1. Create a new team on GitHub for staff, note the name //Manual, todo
 2. Get a CSV with teams and names //Manual, todo
